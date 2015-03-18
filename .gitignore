@@ -1,3 +1,5 @@
 *.njsproj
 *.suo
+*.sln
+jsLauncher.*
 .ntvs_analysis.dat
