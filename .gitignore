@@ -1,2 +1,3 @@
 *.njsproj
 *.suo
+ntvs_analysis.dat
